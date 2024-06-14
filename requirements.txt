@@ -1,0 +1,12 @@
+langchain
+streamlit
+logging
+pathlib
+langchain_community
+python-dotenv
+openai
+docarray
+tiktoken
+pypdf
+langchain_experimental
+wikipedia
